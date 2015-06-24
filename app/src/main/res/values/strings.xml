@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Material App</string>
+    <string name="title_activity_main">Material App</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    <string name="next">Next Activity</string>
+    <string name="title_activity_sub">SubActivity</string>
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="open_drawer">Open Drawer</string>
+    <string name="close_drawer">Close Drawer</string>
+
+    <string-array name="tabs">
+        <item>Tab 1</item>
+        <item>Tab 2</item>
+        <item>Tab 3</item>
+        <item>Tab 4</item>
+        <item>Tab 5</item>
+        <item>Tab 6</item>
+        <item>Tab 7</item>
+    </string-array>
+
+    <string name="title_activity_tab_activity_with_library">Movies</string>
+    <string name="action_tab_activity">Movies</string>
+    <string name="error_timeout">Connection could not be established</string>
+    <string name="error_auth">Authentication Failed</string>
+    <string name="error_server">Server side error</string>
+    <string name="error_network">Please check your network conection</string>
+    <string name="error_parse">Sorry, response could not be parsed</string>
+
+</resources>
